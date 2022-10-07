@@ -1,2 +1,2 @@
 #!/bin/bash
-usermod -l whoami betty
+sudo usermod -l whoami betty
