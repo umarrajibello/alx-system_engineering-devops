@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ms 
+ls -mpX
