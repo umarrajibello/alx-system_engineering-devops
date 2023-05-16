@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "export PATH=\"/Action:$PATH\"" >> ~/.bashrc
+echo 'export PATH="$PATH:/Action"' >> ~/.bashrc
